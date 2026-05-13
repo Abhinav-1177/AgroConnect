@@ -1,6 +1,6 @@
-# KisanBazar
+# AgroConnect
 
-**KisanBazar** is a full-stack web application developed during a hackathon to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
+**AgroConnect** is a full-stack web application developed during a hackathon to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
 
 🚀 **Winner of the Full Stack Web Development Hackathon** at the University of South Asia — built by Team Terminator 🏆
 
@@ -10,7 +10,7 @@
 
 **Build a full-stack web application that connects farmers and consumers.**
 
-We responded with **KisanBazar** — a modern, scalable agri-tech solution empowering both farmers and consumers.
+We responded with **AgroConnect** — a modern, scalable agri-tech solution empowering both farmers and consumers.
 
 ---
 
@@ -27,7 +27,7 @@ Farmers in many regions face major hurdles:
 
 ## ✅ Our Developed Solution
 
-**KisanBazar** directly addresses these issues by offering:
+**AgroConnect** directly addresses these issues by offering:
 
 - 🌾 **Farmer Profiles** — Showcase farm products, locations, and background
 - 🛒 **Consumer Dashboard** — Browse goods by category, farm
@@ -100,7 +100,7 @@ api/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/kisanbazar.git
+   git clone https://github.com/yourusername/AgroConnect.git
    ```
 
    `Unzip the File`
@@ -180,8 +180,8 @@ api/
 
 ## Live Links
 
-- **Live Web:** [kisanbazar.vercel.app](https://kisanbazar.vercel.app)
-- **GitHub Repo:** [github.com/ahadalireach/kisanbazar](https://github.com/ahadalireach/kisanbazar) (Give it a Star!)
+- **Live Web:** [AgroConnect.vercel.app](https://AgroConnect.vercel.app)
+- **GitHub Repo:** [github.com/ahadalireach/AgroConnect](https://github.com/ahadalireach/AgroConnect) (Give it a Star!)
 - Live Video Demo: [Watch Now](https://www.youtube.com/watch?v=riaSSccA8uk)
 
 ## Contact
