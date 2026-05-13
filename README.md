@@ -2,9 +2,6 @@
 
 **AgroConnect** is a full-stack web application developed during a hackathon to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
 
-🚀 **Winner of the Full Stack Web Development Hackathon** at the University of South Asia — built by Team Terminator 🏆
-
----
 
 ## 💡 Challenge (Given Scenario)
 
@@ -177,17 +174,3 @@ api/
     - Ensure the frontend loads correctly and communicates with the backend server.
 
 ---
-
-## Live Links
-
-- **Live Web:** [AgroConnect.vercel.app](https://AgroConnect.vercel.app)
-- **GitHub Repo:** [github.com/ahadalireach/AgroConnect](https://github.com/ahadalireach/AgroConnect) (Give it a Star!)
-- Live Video Demo: [Watch Now](https://www.youtube.com/watch?v=riaSSccA8uk)
-
-## Contact
-
-For any questions, feedback, or collaboration opportunities, feel free to contact me at [ahadali.reach@gmail.com](mailto:ahadali.reach@gmail.com).
-
----
-
-> Built with ❤️ by Team Terminator | **Full Stack Web Development Hackathon** Winner at the University of South Asia 🏆
